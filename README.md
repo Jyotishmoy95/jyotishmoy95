@@ -3,4 +3,4 @@
 
 <p align="center">💻 I work mainly with - JavaScript, PHP & Node</p>
 
-<p align="center">📫 Reach me at <a href="mailto:jyotishmoy98@gmail.com">**jyotishmoy98@gmail.com**</a>
+<p align="center">📫 Reach me at <a href="mailto:jyotishmoy98@gmail.com">jyotishmoy98@gmail.com</a>
